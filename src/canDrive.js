@@ -1,9 +1,11 @@
 function canDrive(age) {
   // escreva seu código aqui
-  //sei la teste
+  //teste 
+  console.log("teste")
 }
 
 
 module.exports = {
   canDrive
+
 }
